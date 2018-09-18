@@ -1,2 +1,2 @@
 # backup-mem
-Script to perform backup using named pipe and store in s3 compatilble
+Script to perform backup using named pipe and store in s3 compatible storage.
